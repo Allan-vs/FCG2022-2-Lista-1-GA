@@ -1,0 +1,1 @@
+Cada enunciado está comentado no código, para ver cada parte tem que ir descomentando.
